@@ -1,5 +1,5 @@
 # Hi, I’m Mauricio Oliveira, a web and mobile developer 💻📱! I 💖 Flutter/ReactJS/React Native 
-![banner](https://moguru.de/wp-content/uploads/Flutter_Crossplattform_Post_Header-790x400.png)
+![banner](https://github.com/ciumauri/ciumauri/blob/main/1_k_LSWQN3Wonr0QUX0V0P6A.png)
 # FAQ about me
 - 📍 Where do you live? In Foz do Iguaçu, Paraná, Brasil
 - 🗣 What language do you know? Portuguese and English
